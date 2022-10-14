@@ -1,7 +1,5 @@
 # AWS-SageMaker-Studio-Register-and-Visualize-Dataset
 
-Introduction
-
 In this repo, it is ingested and transformed the customer reviews dataset.Then AWS data stack services such as AWS Glue and Amazon Athena for ingesting and querying
 the dataset. Finally Data Wrangler tool is used to analyze the dataset and some visuals are extacted.
 
