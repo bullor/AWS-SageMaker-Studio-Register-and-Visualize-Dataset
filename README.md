@@ -5,7 +5,7 @@ Introduction
 In this repo, it is ingested and transformed the customer reviews dataset.Then AWS data stack services such as AWS Glue and Amazon Athena for ingesting and querying
 the dataset. Finally Data Wrangler tool is used to analyze the dataset and some visuals are extacted.
 
-Table of Contents
+## Table of Contents
 - Ingest and transform the public dataset
 - List the dataset files in the public S3 bucket Exercise 1
 - Copy the data locally to the notebook
